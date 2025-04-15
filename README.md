@@ -1,4 +1,6 @@
-# Par-Impar_PSeInt
+✔EJERSICIO DE REFUERZO PESEINT 3065370 ADSO✔🤷‍♀
 
-# hola este es mi titulo 
+Plantilla de refuerzo de algoritmia con el juego de adivina un numero echo en su totalidad en pseudocodigo , ejersicio de control de la paguina GitHub
+
+🎸 Kevin Andrès Rojas
 ![Vista previa del algoritmo](paroimpar.png) 
